@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CEO-Rohit
+- 👋 Hi, I’m @Rohit
 - 👀 I’m interested in learning about computer science 
-- 🌱 I’m currently learning Cloud Computing and Python.
-- 💞️ I’m looking to collaborate on Making projects on Cloud computing  
+- 🌱 I’m currently learning Java full Stack Development.
+- 💞️ I’m looking to collaborate on Making projects on Web Development and Java Programming.   
 - 📫 How to reach -me send me a request
 - 😄 Pronouns: ...Rohit
 - ⚡ Fun fact: ... I am a student 21 yr old
